@@ -14,3 +14,9 @@ any code inside the curly brackets will be executed DONT FORGET TO CLOSE THE CUR
 OTHER WAY OF WRITTING THE PROGRAM
 int main(){printf("Hello World!");return 0;}
 */
+#include <stdio.h>
+
+int main() {
+  printf("Hello World\n Wettin be dis \n LOL \n your are awesome\n this is new me Enjoy");// \n adds new line //
+  return 0;
+}
