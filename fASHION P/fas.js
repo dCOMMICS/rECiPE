@@ -24,3 +24,11 @@ let job1 = 'gravedigger';
 let job2 = 'SWE II';
 
 console.log(myFirstJob); //print Grave Digger 
+
+//Assigment Part 1
+let country = "Canada";
+let continent = "North America"
+let population = "38.25 million"
+console.log(country, continent, population)
+
+
