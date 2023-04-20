@@ -48,3 +48,7 @@ printf("%c", myLetter); //always write %c on letters / characters
 printf("%d", myWidth); //always write %d on intergers
 
 // Sign Out at 4:30 pm Great Time
+
+
+
+// DAY 2//
