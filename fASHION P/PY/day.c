@@ -64,7 +64,7 @@ printf("%d", myWidth); //always write %d on intergers
 
 int main() {
   float newFloat = 2.11;
-  printf("%f",newFloat)
+  printf("%f",newFloat);
   printf("jUAN");
   return 0;
 }
@@ -73,9 +73,9 @@ int main() {
 #include <stdio.h>
 
 int main() {
-  float newFloat = 2.11;
+  float newFloat = 2.11f; //you might or not add f on float it does not change anything
 
-  double square = 
+  double square = 10.49;
   printf("%.4f\n",newFloat); //adding %.f prints 2 adding %.1f prints 2.1 
   printf("jUAN");
   return 0;
