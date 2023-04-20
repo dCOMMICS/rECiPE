@@ -95,3 +95,13 @@ int main() {
 
 /*size of operator*/
 //size of()
+
+//  User input//
+
+#include <stdio.h>
+int main (){
+  int Age; //STORES THE AGE ASSIGNED BY THE USER//
+  scanf("%d",&Age); //ENABLES THE USER TO INPUT HIS / HER / THEIR AGE //
+  printf("Age = %d", Age);
+  return 0;
+}
