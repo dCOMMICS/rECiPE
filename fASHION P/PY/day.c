@@ -68,7 +68,7 @@ int main() {
   printf("jUAN");
   return 0;
 }
-
+// always use double for decimal number//
 // today target IF STATEMENT //
 #include <stdio.h>
 
@@ -80,3 +80,18 @@ int main() {
   printf("jUAN");
   return 0;
 }
+
+// single quatation for characters 
+
+// character / letters//
+#include <stdio.h>
+
+int main() {
+  char myName= 'U';
+  printf("%c\n\n",myName);//more \n more space//
+  printf("%d" , myName);
+  return 0;
+}
+
+/*size of operator*/
+//size of()
