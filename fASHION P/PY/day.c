@@ -51,4 +51,32 @@ printf("%d", myWidth); //always write %d on intergers
 
 
 
-// DAY 2//
+// DAY 2 DATA TYPES//
+
+// WHAT ARE BYTES ???//
+/*
+1. INT (INTERGERS) %d (4 bytes)
+2. CHAR (CHARACTER) %c (1 byte)
+3. DOUBLE %lf (8bytes)
+4. FLOAT %f (4 bytes)
+*/
+#include <stdio.h>
+
+int main() {
+  float newFloat = 2.11;
+  printf("%f",newFloat)
+  printf("jUAN");
+  return 0;
+}
+
+// today target IF STATEMENT //
+#include <stdio.h>
+
+int main() {
+  float newFloat = 2.11;
+
+  double square = 
+  printf("%.4f\n",newFloat); //adding %.f prints 2 adding %.1f prints 2.1 
+  printf("jUAN");
+  return 0;
+}
