@@ -31,4 +31,15 @@ let continent = "North America"
 let population = "38.25 million"
 console.log(country, continent, population)
 
+//Data Types//
 
+let reactDom = true;
+console.log(reactDom);
+console.log(typeof true);
+//dynamic typing
+reactDom = "No !";
+console.log(reactDom);
+//undefined data type// 
+let age;
+console.log(age);
+console.log(typeof age); // U+1F480 fire 
