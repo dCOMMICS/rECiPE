@@ -54,3 +54,13 @@ const dateOfBirth = 1945;
 console.log(dateOfBirth);
 
 //const intialized//
+
+/*Basic Operator in javascript */
+// add (+), mutlipication (x) AND 
+// Arithmetic operators
+// Assignment operators.
+// String operators.
+// Comparison operators.
+// Logical operators.
+// Bitwise operators.
+// Special operators.
