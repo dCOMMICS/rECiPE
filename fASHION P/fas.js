@@ -43,3 +43,14 @@ console.log(reactDom);
 let age;
 console.log(age);
 console.log(typeof age); // U+1F480 fire 
+
+//let con var//
+/*let is used for variable that might change in future while cons is used for variables that won't change.
+it is recommended to use const for clean code.NEVER USE VAR TO DECLARE VARIABLES.
+*/
+
+const dateOfBirth = 1945;
+// userAge = 45;
+console.log(dateOfBirth);
+
+//const intialized//
