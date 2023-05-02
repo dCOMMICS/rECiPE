@@ -65,6 +65,8 @@ console.log(dateOfBirth);
 // Bitwise operators.
 // Special operators.
 
+
+// this code has some errors//
 const now = 2023;
 dateOfBirth= 1998;
 const ageYang = now - dateOfBirth;
