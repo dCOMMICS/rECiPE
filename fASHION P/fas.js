@@ -66,6 +66,8 @@ console.log(dateOfBirth);
 // Special operators.
 
 
+
+
 // this code has some errors//
 const now = 2023;
 dateOfBirth= 1998;
